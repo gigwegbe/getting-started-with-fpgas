@@ -1,0 +1,73 @@
+3:59 PM
+"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting Synthesisrunning Synthesis/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Copyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+Error : can not print out log file stdout.log
+Synthesis failed.
+Synthesis batch mode runtime 0 seconds"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Error : can not print out log file stdout.log
+running SynthesisSynthesis failed.
+Synthesis batch mode runtime 0 seconds"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Error : can not print out log file stdout.log
+Synthesis failed.
+Synthesis batch mode runtime 0 seconds"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -options "switch_and_leds_syn.prj" 
+starting Synplify_ProCurrent Implementation switch_and_leds_Implmnt its sbt path: /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/sbt
+running Synplify_ProCurrent Implementation switch_and_leds_Implmnt its sbt path: /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/sbt
+Copyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Information : Using arguments of synplify instead, will not check them here.
+Child process exit with 0.
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+Current Implementation switch_and_leds_Implmnt its sbt path: /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/sbt
+Synplify_Pro succeed.
+Synthesis runtime 73 seconds
+"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting Synthesis/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Error : can not print out log file stdout.log
+running SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+Synthesis failed.
+Synthesis batch mode runtime 0 seconds"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting Synthesisrunning SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Error : can not print out log file stdout.log
+Synthesis failed.
+Synthesis batch mode runtime 0 seconds"/home/george/lscc/iCEcube2.2020.12/sbt_backend/bin/linux/opt/synpwrap/synpwrap" -prj "switch_and_leds_syn.prj" -log "/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr"
+starting SynthesisCopyright (C) 1992-2014 Lattice Semiconductor Corporation. All rights reserved.
+Child process exit with 2.
+Error of dumping file /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/switch_and_leds.srr, 'stdout.log' is instead. 
+Synthesis exit by 2.
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 137: [: unexpected operator
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 151: [: !=: argument expected
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/synplify_pro: 321: /home/george/lscc/iCEcube2.2020.12/synpbase/bin/config/execute: Syntax error: "(" unexpected (expecting ";;")
+Error : can not print out log file stdout.log
+running SynthesisSynthesis failed.
+Synthesis batch mode runtime 0 seconds10:48 PM

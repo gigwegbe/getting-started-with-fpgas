@@ -1,0 +1,13 @@
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/m_generic  -prodtype  synplify_pro   -encrypt  -pro  -rundir  /home/george/Documents/nandland/and_gate/and_gate_Implmnt   -part iCE40HX1K  -package VQ100    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile /home/george/Documents/nandland/and_gate/and_gate_Implmnt/synlog/report/and_gate_premap.xml  -oedif  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate.edf  -conchk_prepass  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate_cck.rpt   -autoconstraint  -freq 1.000   /home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_mult.srs  -flow prepass  -gcc_prepass  -osrd  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_prem.srd  -qsap  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate.sap  -devicelib  /home/george/lscc/iCEcube2.2020.12/synpbase/lib/generic/sb_ice40.v  -ologparam  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/syntmp/and_gate.plg  -osyn  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_prem.srd  -prjdir  /home/george/Documents/nandland/and_gate/  -prjname  and_gate_syn  -log  /home/george/Documents/nandland/and_gate/and_gate_Implmnt/synlog/and_gate_premap.srr 
+rc:0 success:1 runtime:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate.edf|io:o|time:0|size:0|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate_cck.rpt|io:o|time:1722002803|size:1931|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_mult.srs|io:i|time:1722002803|size:1199|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_prem.srd|io:o|time:1722002803|size:1384|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/and_gate.sap|io:o|time:1722002803|size:125|exec:0
+file:/home/george/lscc/iCEcube2.2020.12/synpbase/lib/generic/sb_ice40.v|io:i|time:1721605435|size:220434|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/syntmp/and_gate.plg|io:o|time:1722002803|size:0|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/synwork/and_gate_prem.srd|io:o|time:1722002803|size:1384|exec:0
+file:/home/george/Documents/nandland/and_gate/and_gate_Implmnt/synlog/and_gate_premap.srr|io:o|time:1722002803|size:2893|exec:0
+file:/home/george/lscc/iCEcube2.2020.12/synpbase/linux_a_64/m_generic|io:i|time:1721605436|size:32925640|exec:1
+file:/home/george/lscc/iCEcube2.2020.12/synpbase/bin/m_generic|io:i|time:1721854195|size:347|exec:1

@@ -1,0 +1,3 @@
+@E: CD430 :"/home/george/Documents/nandland/switch_and_leds/file.vhd":1:0:1:5|Expecting library unit
+@E: Parse errors encountered - exiting
+

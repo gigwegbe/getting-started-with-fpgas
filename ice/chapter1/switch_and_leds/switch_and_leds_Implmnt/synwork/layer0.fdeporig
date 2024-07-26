@@ -1,0 +1,22 @@
+#defaultlanguage:vhdl
+#OPTIONS:"|-layerid|0|-orig_srs|/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synwork/switch_and_leds_comp.srs|-autotop|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work"
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/linux_a_64/c_vhdl":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/location.map":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/std.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/snps_haps_pkg.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/std1164.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/numeric.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/umr_capim.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/arith.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/unsigned.vhd":1721605435
+#CUR:"/home/george/lscc/iCEcube2.2020.12/synpbase/lib/vhd/hyperents.vhd":1721605435
+#CUR:"/home/george/Documents/nandland/switch_and_leds/file.vhd":1721856646
+0 "/home/george/Documents/nandland/switch_and_leds/file.vhd" vhdl
+
+# Dependency Lists (Uses list)
+0 -1
+
+# Dependency Lists (Users Of)
+0 -1
+
+# Design Unit to File Association

@@ -1,0 +1,7 @@
+/home/george/lscc/iCEcube2.2020.12/synpbase/bin/syn_nfilter  -link  -multisrs  /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synwork/switch_and_leds_comp.srs  -osyn  /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synwork/switch_and_leds_mult.srs  -log  /home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synlog/switch_and_leds_multi_srs_gen.srr 
+rc:0 success:1 runtime:0
+file:/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synwork/switch_and_leds_comp.srs|io:i|time:1722001367|size:1630|exec:0
+file:/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synwork/switch_and_leds_mult.srs|io:o|time:1722001368|size:1347|exec:0
+file:/home/george/Documents/nandland/switch_and_leds/switch_and_leds_Implmnt/synlog/switch_and_leds_multi_srs_gen.srr|io:o|time:1722001368|size:852|exec:0
+file:/home/george/lscc/iCEcube2.2020.12/synpbase/linux_a_64/syn_nfilter|io:i|time:1721605436|size:11473624|exec:1
+file:/home/george/lscc/iCEcube2.2020.12/synpbase/bin/syn_nfilter|io:i|time:1721854195|size:368|exec:1
